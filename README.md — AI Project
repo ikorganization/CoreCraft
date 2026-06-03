@@ -1,0 +1,20 @@
+
+---
+
+# 3. README.md — AI Project
+
+```md
+# AI Assistant
+
+An AI-powered assistant built using modern language models.
+
+## Features
+
+- Natural language processing
+- Question answering
+- Custom prompts
+
+## Setup
+
+```bash
+pip install -r requirements.txt
